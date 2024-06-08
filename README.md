@@ -1,4 +1,4 @@
-# 🌍 Planet Protectors 📱
+# 🌍🌱 Planet Protectors 🌍🌱
 
 **Welcome to Planet Protectors**, a mobile app dedicated to educating and empowering users to protect endangered plant species. Discover Red List plants, find their locations, and learn how you can help conserve our planet's precious flora.
 
