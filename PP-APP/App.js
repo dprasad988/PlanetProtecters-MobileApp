@@ -5,10 +5,11 @@ import BottomTabNavigator from './Dev-supun/BottomTabNavigator';
 
 export default function App() {
   return (
+
     <PaperProvider>
       <NavigationContainer>
         <BottomTabNavigator />
       </NavigationContainer>
     </PaperProvider>
-  );
+  )
 }
